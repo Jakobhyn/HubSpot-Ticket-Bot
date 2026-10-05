@@ -2,7 +2,7 @@
 
 # HubSpot Ticket-Bot
 
-Ein Tool zur automatisierten Kategorisierung, Priorisierung und Weiterleitung von Support-Tickets für medizinische Praxis-Kunden von Designery GmbH. Aktuell ein persönliches Lern-/Portfolio-Projekt, das später an die echte HubSpot-API angebunden werden soll.
+Ein Tool zur automatisierten Kategorisierung, Priorisierung und Weiterleitung von Support-Tickets für medizinische Praxis-Kunden von Designery GmbH. 
 
 ## Ziel
 
